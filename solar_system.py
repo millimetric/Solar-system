@@ -3,8 +3,6 @@ import numpy as np
 import astronomical_bodies
 import solar_masses
 
-# https://www.python-graph-gallery.com/
-
 plt_dict = {'title': 'Astronomical bodies, solar system',
             'ax1_ylabel': '4 inner',
             'ax2_ylabel': '4 most massive',
